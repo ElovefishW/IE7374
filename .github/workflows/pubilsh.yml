@@ -22,5 +22,5 @@ jobs:
 
     - name: Build and Push Image
       run: |
-        docker image build -t elovefishe/docker-image:latest .
-        docker push elovefishe/docker-image:latest
+        docker image build -t elovefishw/docker-image:latest .
+        docker push elovefishw/docker-image:latest
