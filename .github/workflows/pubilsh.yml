@@ -22,5 +22,5 @@ jobs:
 
     - name: Build and Push Image
       run: |
-        docker image build -t draj6/docker-image:latest .
-        docker push draj6/docker-image:latest
+        docker image build -t ElovefishW/docker-image:latest .
+        docker push ElovefishW/docker-image:latest
